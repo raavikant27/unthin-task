@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.file-uploader input {
+  margin: 10px;
+}
+
+.spinner {
+  font-size: 18px;
+  color: #00f;
+}
